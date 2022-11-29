@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.lightdot.starshipintializr.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.lightdot.starshipintializr.MyBundle
 
 class MyApplicationService {
 
